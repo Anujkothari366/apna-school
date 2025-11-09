@@ -1,3 +1,3 @@
 # apna-school
 This is 2nd git repository
-MY NAME ANUJ KOTHARI
+MY NAME ANUJ KOTHARI (apna)
